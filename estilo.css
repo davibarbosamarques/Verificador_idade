@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(8, 142, 219);
+    font: normal 15pt monospace ;
+
+}
+header{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 30px;
+    padding-top:20px ;
+}
+section{
+    background: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin:auto;
+    box-shadow: 3px 3px 10px ;
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+}
+img{
+    width: 40%;
+}
+div{
+    padding: 10px;
+}
+span{
+    color: red;
+}
+p{
+    padding-bottom: 10px;
+}
+.button{
+    background-color: rgb(8, 142, 219);
+    color: aliceblue;
+    width: 50vh;
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    margin-left: 7%;
+}
+#resultado{
+   text-align: center;
+}
