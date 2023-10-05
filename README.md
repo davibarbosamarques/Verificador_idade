@@ -1,4 +1,4 @@
-# Verificador_idade JS
+# Verificador_idade
 
 Projeto JavaScript desenvolvido enquanto fazia um curso de JS 
 
